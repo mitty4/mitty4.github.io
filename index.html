@@ -8,12 +8,12 @@ published: true
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">See what I'm talking about</a>
-      <div class="entry">
+
         {{ post.excerpt }}
       </div>
 
-      
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">See what I'm talking about</a>
+      <div class="entry">
     </article>
   {% endfor %}
 </div>
