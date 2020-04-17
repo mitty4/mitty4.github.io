@@ -9,4 +9,4 @@ Admittedly, the driving force that started me down the data science path was to 
 
 ## The Material
 
-The content of this blog mostly encompasses what I have explored in machine learning and statistics. I felt that this was my biggest hole when it came to data science. Experience with python and visualization tools like Jupyter Notebook are available on my github page.
+The content of this blog mostly encompasses what I have explored in machine learning and statistics. I felt that this was my biggest "hole" when it came to data science. Experience with python and visualization tools like Jupyter Notebook are available on my github page.
