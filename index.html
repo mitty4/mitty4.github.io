@@ -4,7 +4,10 @@ published: true
 ---
 
 <div class="posts">
-  {% for post in xrange(len(site.posts), 1) %}
+  {{site.posts[0].title}}
+  {{site.posts[0].excerpt}}
+  
+  {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
