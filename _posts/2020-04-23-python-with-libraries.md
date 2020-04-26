@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A New Post
 
@@ -16,7 +16,7 @@ Matplotlib offers customization for detailed and intentional visual representati
 
 
 Here is the anatomy of a figure in matlplotlib, the python library...
-![anatomy.png]({{site.baseurl}}/_posts/anatomy.png)
+![anatomy.png]({{site.baseurl}}/images/anatomy.png)
 
 
 ##### plotting - 2 styles
