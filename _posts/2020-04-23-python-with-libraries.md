@@ -9,9 +9,17 @@ pandas, numpy, scikit, mathplotlib....
 ### Scikitlearn
 
 ### matplotlib
+##### what is matplotlib?
+Matplotlib is a python library used in graphing datasets and has multiple methods to manipulate graphs, charts and figures, some of which are listed below.
+##### commonly used parameters
+Matplotlib offers customization for detailed and intentional visual representations. 
+
+
+Here is the anatomy of a figure in matlplotlib, the python library...
+![anatomy.png]({{site.baseurl}}/_posts/anatomy.png)
 
 
 ##### plotting - 2 styles
-In order to plot a function, employ either the OOP style or just use the straight .pyplot. The docs for the OOP style say "explicitly create figures and axes, and call methods on them" while the pyplot style says "rely on pyplot to automatically create and manage the figures and axes, and use pyplot functions for plotting." 
+In order to plot a function, employ either the OOP style or just use the straight .pyplot style. The docs for the OOP style say "explicitly create figures and axes, and call methods on them" while the pyplot style says "rely on pyplot to automatically create and manage the figures and axes, and use pyplot functions for plotting." 
 
-The matplotlib documentation suggests to use the oop style when writing scripts and other reusable code while the pyplot style should be restricted to interactive plotting such as in use with jupyter notebooks.
+There is an accepted standard, which is to use the oop style when writing scripts and other reusable code while the pyplot style should be restricted to interactive plotting such as in use with jupyter notebooks.
