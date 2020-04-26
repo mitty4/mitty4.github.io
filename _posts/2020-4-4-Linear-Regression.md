@@ -1,10 +1,7 @@
 ---
 published: true
 ---
----
-layout: post
-title:  "Linear regresion"
----
+
 
 ## A New Post
 
