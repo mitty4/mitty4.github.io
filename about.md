@@ -17,8 +17,8 @@ I am very excited to delve into gathering, cleaning and analyzing data. This par
 
 ## My Top Traits
 
--Empathetic
--Detail-oriented
--Goal-driven (balances out the detail oriented trait)
--Creative
--Team Player
+- Empathetic
+- Detail-oriented
+- Goal-driven (balances out the detail oriented trait)
+- Creative
+- Team Player
