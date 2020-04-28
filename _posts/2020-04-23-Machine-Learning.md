@@ -4,6 +4,7 @@ published: true
 ### Decision Tree
 
 4/27/2020
+https://www.kdnuggets.com/2018/12/guide-decision-trees-machine-learning-data-science.html
 A decision tree is a classification algorithm that can be represented visually by starting with one node that has two branches coming off it. Each branch leads to another node until an end state is reached. With each node, there is a decision to be made, which determines which branch to follow to the next node and eventually the result/answer.
 
 Entropy and information gain equal one. Entropy of 1 is complete disorder. Information gain brings order. Attributes that provide more information gain are more valuable. 
