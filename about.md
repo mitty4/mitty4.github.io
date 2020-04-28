@@ -19,6 +19,6 @@ I am very excited and engaged with gathering, cleaning and analyzing data. This 
 
 - Empathetic
 - Detail-oriented
-- Goal-driven (balances out the detail oriented trait)
+- Goal-driven (balances out the perfectionism in me)
 - Creative
 - Team Player
