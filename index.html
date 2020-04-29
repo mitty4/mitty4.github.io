@@ -11,7 +11,7 @@ published: true
   <h2>Topics</h2>
   {% for post in site.posts %}
 
-   <h3><a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+   <a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
   {% endfor %}
 </div>
