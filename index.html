@@ -9,11 +9,11 @@ published: true
 		<blockquote> Writing this blog may be time consuming, but my oh my, expressing what I've learned reinforces every second of the hard work I have employed, which is exactly why I have summarized the blogs I've read, Coursera courses I completed, and projects I contributed to. Check out some of the topics I've covered below.
     </blockquote>
   </div>
-  <p>The topics are all written in my own understanding, however, I have cited the source as well.
+  
   <h2>Topics</h2>
   {% for post in site.posts %}
 
-  <p><a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+  <p><a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><i>The topics are all written in my own understanding, however, I have cited the source as well.</i>
 
   {% endfor %}
 </div>
