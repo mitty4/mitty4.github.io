@@ -16,9 +16,9 @@ Matplotlib offers customization for detailed and intentional visual representati
 
 
 Here is the anatomy of a figure in matlplotlib, the python library...
-[<img src="{{ site.baseurl }}/images/anatomy.png" alt="figure anatomy by https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py" style="width: 400px;"/>]
+<img src="{{ site.baseurl }}/images/anatomy.png" alt="figure anatomy by https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py" style="width: 400px;"/>
 
-![anatomy.png]({{site.baseurl}}/_posts/anatomy.png)
+
 
 
 ##### plotting - 2 styles
