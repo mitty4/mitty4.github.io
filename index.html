@@ -5,20 +5,15 @@ published: true
 
 <div class="posts">
   <h1>Welcome to my Data Science Blog</h1>
-  <h2>My Best Foot Forward</h2>
-
-<blockquote> Writing this blog may be time consuming, but my oh my, expressing what I've learned reinforces every second of the hard work I have employed, which is exactly why I have summarized the blogs I've read, Coursera courses I completed, and projects I contributed to.</blockquote> 
+	<blockquote> Writing this blog may be time consuming, but my oh my, expressing what I've learned reinforces every second of the hard work I have employed, which is exactly why I have summarized the blogs I've read, Coursera courses I completed, and projects I contributed to.
+    </blockquote> 
   
   
   {% for post in site.posts %}
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
-      </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       <div class="entry">
-    </article>
   {% endfor %}
 </div>
