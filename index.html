@@ -13,7 +13,11 @@ published: true
   <h2>Topics</h2>
   {% for post in site.posts %}
 
-  <p><a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><i>The topics are all written in my own understanding, however, I have cited the source as well.</i>
+  <p><a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+   
+     {% endfor %}
+    
+    <i>The topics are all written in my own understanding, however, I have cited the source as well.</i>
 
-  {% endfor %}
+
 </div>
