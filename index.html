@@ -8,10 +8,10 @@ published: true
 	<blockquote class='post'> Writing this blog may be time consuming, but my oh my, expressing what I've learned reinforces every second of the hard work I have employed, which is exactly why I have summarized the blogs I've read, Coursera courses I completed, and projects I contributed to.
     </blockquote> 
   
-  <h3>Topics</h3>
+  <h2>Topics</h2>
   {% for post in site.posts %}
 
-   <h2 class="post"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+   <h3><a class="post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
   {% endfor %}
 </div>
