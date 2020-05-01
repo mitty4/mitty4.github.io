@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## exploratory data analysis
 
@@ -35,4 +35,3 @@ and to restore to the original settings:
 #9 Comment out lines of code at a time by pressing cmd/ctrl + /
 
 #10 cmd/ctrl + z undoes delete, now add esc to that and it will undelete the entire cell.
-
