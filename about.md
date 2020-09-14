@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Why Data Science
-Unexpectedly, the driving force that started me down the data science path turned out wonderfully. Initially, I  searched for a career that would support my already growing family, but, as I went deeper into the content, I unexpectedly _fell in love with_ exploring data and uncovering insights that translate into more optimized business practices.
+Initially, I  searched for a career that would support my already growing family, but, as I went deeper into the content, I unexpectedly _fell in love with_ exploring data and uncovering insights that translate into more optimized business practices.
 
 ## The Material
 
@@ -17,8 +17,6 @@ I am very excited and engaged by gathering, cleaning and analyzing data. This pa
 
 ## My Top Traits
 
-- Empathetic
+- Empathy
 - Detail-oriented
-- Goal-driven (balances out the perfectionism in me)
-- Creative
 - Team Player
